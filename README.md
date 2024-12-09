@@ -1,2 +1,3 @@
-# Vaishnav-Minimole
-Hello World, This is my profile
+# Vaishnavi-Minimole
+Hello World,
+This is my profile
